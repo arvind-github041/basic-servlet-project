@@ -22,7 +22,8 @@ This project performs basic arithmetic operations like addition.
 - Apache Tomcat Server
 - Eclipse IDE
 
-<img width="1920" height="1080" alt="Screenshot 2026-05-09 205515" src="https://github.com/user-attachments/assets/2bea6d3d-6969-4e80-b3a8-d86187e879a9" />
+<img width="1919" height="974" alt="image" src="https://github.com/user-attachments/assets/f6f853b8-079a-4f46-9bfb-ec08206949f1" />
+
 RESULT 
 
 
